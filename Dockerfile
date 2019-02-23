@@ -1,4 +1,4 @@
-FROM centos/python-36-centos7 # python_centos2  this is the base_image on my docker-machine
+FROM centos/python-36-centos7
 MAINTAINER Farhan Sajid <farhansajid7861@gmail.com>
 
 USER root
